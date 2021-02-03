@@ -159,4 +159,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         super.onResume();
         setListView();
     }
+
+    public void aboutus(MenuItem item) {
+        Intent inte = new Intent(MainActivity.this, AboutUsActivity.class);
+        startActivity(inte);
+    }
 }

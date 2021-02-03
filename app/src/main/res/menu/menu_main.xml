@@ -4,6 +4,7 @@
     tools:context="com.example.py7.bukutamu.MainActivity">
     <item
         android:id="@+id/action_settings"
+        android:onClick="aboutus"
         android:orderInCategory="100"
         android:title="About Us"
         app:showAsAction="never" />
