@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppBiodata</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kelamin">
+        <item>Pak Hasan</item>
+        <item>Pak Depri</item>
+        <item>Pak Samid</item>
+        <item>Pak Haryo</item>
+        <item>Pak Kuncoro</item>
+        <item>Bu Ula</item>
+        <item>Bu Nunuk</item>
+        <item>Bu Retno</item>
+    </string-array>
+</resources>
