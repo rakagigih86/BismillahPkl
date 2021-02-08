@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/aboutus"
+    android:background="@drawable/aboutuss"
     tools:context="com.example.py7.bukutamu.AboutUsActivity">
 
 </android.support.constraint.ConstraintLayout>
